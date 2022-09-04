@@ -137,4 +137,3 @@ const toggleSpinner = isLoading => {
     }
     // console.log(loaderSection)
 }
-// the end
